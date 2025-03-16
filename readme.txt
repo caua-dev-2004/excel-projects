@@ -17,11 +17,9 @@ O sistema de controle de estoque permite gerenciar produtos, acompanhar entradas
 - **Relatórios**: Gerar relatórios de estoque atual e histórico de movimentações.
 
 #### Estrutura do Projeto
-
 MultipleFiles/ 
 │ 
-├── Controle de Estoque -  # Arquivo principal do sistema de controle de estoque
-
+├── Controle de Estoque.xlsm # Arquivo principal do sistema de controle de estoque
 
 #### Como Executar o Projeto
 1. **Pré-requisitos**:
@@ -32,25 +30,6 @@ MultipleFiles/
 
 3. **Abrindo o Arquivo**:
    - Abra o arquivo `Controle de Estoque.xlsm` para utilizar o sistema de controle de estoque.
-
----
-
-### 2. Sistema de Cadastro
-
-#### Descrição
-O sistema de cadastro permite gerenciar informações de clientes ou usuários, facilitando o registro e a consulta de dados.
-
-#### Funcionalidades
-- **Cadastro de Usuários**: Adicionar novos usuários ao sistema.
-- **Edição de Dados**: Atualizar informações de usuários existentes.
-- **Consulta de Usuários**: Pesquisar e visualizar dados de usuários cadastrados.
-
-#### Estrutura do Projeto
-
-MultipleFiles/ 
-│ 
-├── Sistema de Cadastro - # Arquivo principal do sistema de cadastro
-
 
 #### Como Executar o Projeto
 1. **Pré-requisitos**:
@@ -65,6 +44,4 @@ MultipleFiles/
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-
 
